@@ -16,6 +16,17 @@ body {
      padding: 20px;
 }
 
+/*p {
+     font-variant: small-caps;
+}*/
+
+/*.project {
+     margin-left: 20px;
+     background-color: #deebf7;
+     padding: 20px;
+     width: 525px;
+}*/
+
 .jumbotron {
 	position: relative;
 	background: none;
